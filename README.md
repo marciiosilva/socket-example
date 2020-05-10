@@ -39,6 +39,8 @@ node connectRoom.js
 node envia.js
 ```
 
+![Image description](https://user-images.githubusercontent.com/46344613/81499573-f7ebbb80-92a2-11ea-9e67-c4f3e1ce8978.png)
+
 <!-- CONTRIBUTING -->
 
 ## Contribuição
