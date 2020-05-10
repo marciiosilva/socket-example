@@ -24,7 +24,7 @@ yarn start
 **No Terminal 1 digite:**
 
 ```
-node serve.js
+node server.js
 ```
 
 **No Terminal 2 digite:**
@@ -36,7 +36,7 @@ node connectRoom.js
 **No Terminal 3 digite:**
 
 ```
-node envia.js
+node SendMessagetoRoom
 ```
 
 ![Image description](https://user-images.githubusercontent.com/46344613/81499573-f7ebbb80-92a2-11ea-9e67-c4f3e1ce8978.png)
